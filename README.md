@@ -22,6 +22,9 @@ GBP	IR.Bond.GBP.GB00BZ13D…	2020-11-27	30Y	192.1495	-0.02253
 GBP	IR.Bond.GBP.GB00BDX8C…	2020-11-27	50Y	295.1915	-0.02199
 
 
-You can find more details at
-https://finpricing.com/lib/IrInflationCurve.html
-https://finpricing.com/lib/FiInflationBondCurveData.html
+References:
+
+https://finpricing.com/lib/EqRangeAccrual.html
+
+https://bitbucket.org/cmrm11/inflationbondcurve/downloads/IrInflationBondCurve-10.pdf
+
